@@ -1,2 +1,1 @@
-# ModxSitemapGen
-Генератор sitemap.xl для MODX REVO
+Scripts for generating sitemap.xml for Modx Revo
